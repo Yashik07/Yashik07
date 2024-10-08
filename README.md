@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**Yashik07/Yashik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left"><b>Yashik</b> this side 🚀 <br/>I'm a passionate Full-Stack Developer with a love for DevOps and clean, high-quality code. I'm always striving to improve my skills by using new technologies and delivering the best possible solutions. Outside of coding, I enjoy traveling 🛣️, exploring new music 🎶, and going on road trips 🚗.</p>
+<h2 align="left">About Me</h2>
+<p align="left">✨ Crafting bugs since 2020 🐛<br>📚 Currently deep-diving into Spring Boot and Kafka<br>🚀 Ambition: Launch my very own SaaS product<br>🎲 Fun fact: I have a knack for solving Rubik's cubes faster than I can debug a production issue (or so I hope!)</p>
+<h2 align="left">I Code With</h2> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> </div>
+<h2 align="left">📊 GitHub Stats</h2> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yashik07&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashik07&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashik07&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<h2 align="left">🌍 Connect with me</h2> <p align="left"> <a href="https://linkedin.com/in/yashik-ahuja/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="https://leetcode.com/u/Yashik07/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" /> </a> </p>
+<!-- <h2 align="left">💻 Current Projects</h2>
+🌟 Project 1: Building a SaaS product to improve workplace productivity<br>
+💼 Project 2: Collaborating on an open-source project using Spring Boot and Kafka
+<h2 align="left">🛠️ Tools & Technologies</h2>
+💻 Frontend: React, Angular, TypeScript, JavaScript, HTML5, CSS3
+⚙️ Backend: Node.js, Express.js, Spring Boot, Django
+🗄️ Databases: MongoDB, MySQL, PostgreSQL, Redis
+📊 DevOps: Docker, Kubernetes, Jenkins
+🔧 IDEs: VS Code, IntelliJ IDEA, WebStorm
+☁️ Cloud: AWS, Azure, GCP -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashik07&color=blueviolet" alt="Profile Views" /> </p>
